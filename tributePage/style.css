@@ -1,0 +1,27 @@
+                                #title {
+                                    font-size: 400px;
+                                    width: 60vmax;
+                                }
+                                
+                                .center {
+                                    margin: auto;
+                                    padding: auto;
+                                    text-align: center;
+                                }
+                                
+                                #image {
+                                    max-width: 80%;
+                                    height: auto;
+                                    display: block;
+                                }
+                                
+                                .right {
+                                    margin: auto;
+                                    padding: auto;
+                                }
+                                
+                                #image {
+                                    max-height: 60%;
+                                    height: auto;
+                                    display: block;
+                                }
